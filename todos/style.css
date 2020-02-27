@@ -1,7 +1,12 @@
 body {
     background-color: darkgray;
 }
+h1 {
+    font-family: 'Megrim' ;
+
+}
 .container {
+    font-family: 'Spartan' ;
     max-width: 400px;
 }
 
