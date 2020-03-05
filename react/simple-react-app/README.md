@@ -19,5 +19,5 @@ In the project directory, you can run:
 
 [Bootstrap Template ](https://startbootstrap.com/templates/heroic-features/)
 
-[<arkdown Live Preview ](https://markdownlivepreview.com/)
+[Markdown Live Preview ](https://markdownlivepreview.com/)
 
